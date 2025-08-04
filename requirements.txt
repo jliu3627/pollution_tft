@@ -1,0 +1,9 @@
+# Core PyTorch and Lightning
+pytorch-forecasting==0.10.3
+torch==1.13.1
+numpy==1.23.5
+
+# seaborn==0.13.2
+# matplotlib==3.10.5
+# plotly==6.2.0
+
